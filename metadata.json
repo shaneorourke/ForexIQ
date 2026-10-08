@@ -1,0 +1,6 @@
+{
+  "name": "ForexIQ - AI Forex Analysis & Decision Support",
+  "description": "Professional educational forex analysis dashboard with multi-timeframe structure, automated support/resistance zones, confluence engine, and AI decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
